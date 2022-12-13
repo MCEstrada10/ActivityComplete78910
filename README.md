@@ -1,2 +1,2 @@
-# ActivityComplete78910
+# ActivityCompletion78910
  Upload activity results to a live hosting
